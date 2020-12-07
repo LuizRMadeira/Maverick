@@ -1,0 +1,10 @@
+C:\MaverickNovo\MaverickNovo.Domain\bin\Debug\netstandard2.0\MaverickNovo.Domain.xml
+C:\MaverickNovo\MaverickNovo.Domain\bin\Debug\netstandard2.0\MaverickNovo.Domain.deps.json
+C:\MaverickNovo\MaverickNovo.Domain\bin\Debug\netstandard2.0\MaverickNovo.Domain.dll
+C:\MaverickNovo\MaverickNovo.Domain\bin\Debug\netstandard2.0\MaverickNovo.Domain.pdb
+C:\MaverickNovo\MaverickNovo.Domain\obj\Debug\netstandard2.0\MaverickNovo.Domain.csprojAssemblyReference.cache
+C:\MaverickNovo\MaverickNovo.Domain\obj\Debug\netstandard2.0\MaverickNovo.Domain.AssemblyInfoInputs.cache
+C:\MaverickNovo\MaverickNovo.Domain\obj\Debug\netstandard2.0\MaverickNovo.Domain.AssemblyInfo.cs
+C:\MaverickNovo\MaverickNovo.Domain\obj\Debug\netstandard2.0\MaverickNovo.Domain.csproj.CoreCompileInputs.cache
+C:\MaverickNovo\MaverickNovo.Domain\obj\Debug\netstandard2.0\MaverickNovo.Domain.dll
+C:\MaverickNovo\MaverickNovo.Domain\obj\Debug\netstandard2.0\MaverickNovo.Domain.pdb

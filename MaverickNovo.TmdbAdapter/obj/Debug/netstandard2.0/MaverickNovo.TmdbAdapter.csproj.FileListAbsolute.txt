@@ -1,0 +1,15 @@
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\bin\Debug\netstandard2.0\MaverickNovo.TmdbAdapter.xml
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\bin\Debug\netstandard2.0\MaverickNovo.TmdbAdapter.deps.json
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\bin\Debug\netstandard2.0\MaverickNovo.TmdbAdapter.dll
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\bin\Debug\netstandard2.0\MaverickNovo.TmdbAdapter.pdb
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\bin\Debug\netstandard2.0\MaverickNovo.Domain.dll
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\bin\Debug\netstandard2.0\MaverickNovo.Domain.pdb
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\bin\Debug\netstandard2.0\MaverickNovo.Domain.xml
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\obj\Debug\netstandard2.0\MaverickNovo.TmdbAdapter.csprojAssemblyReference.cache
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\obj\Debug\netstandard2.0\RefitStubs.g.cs
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\obj\Debug\netstandard2.0\MaverickNovo.TmdbAdapter.AssemblyInfoInputs.cache
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\obj\Debug\netstandard2.0\MaverickNovo.TmdbAdapter.AssemblyInfo.cs
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\obj\Debug\netstandard2.0\MaverickNovo.TmdbAdapter.csproj.CoreCompileInputs.cache
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\obj\Debug\netstandard2.0\MaverickNovo.TmdbAdapter.csproj.CopyComplete
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\obj\Debug\netstandard2.0\MaverickNovo.TmdbAdapter.dll
+C:\MaverickNovo\MaverickNovo.TmdbAdapter\obj\Debug\netstandard2.0\MaverickNovo.TmdbAdapter.pdb

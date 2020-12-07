@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MaverickNovo.Domain</name>
+    </assembly>
+    <members>
+        <member name="M:MaverickNovo.Domain.Adapters.ITmdbAdapter.GetFilmesAsync(MaverickNovo.Domain.Models.Pesquisa,System.String)">
+            <summary>
+            Realiza pesquisa em filmes.
+            Este adaptador consiste em um exemplo para acesso ao
+            TMDb API (The Movie Database - https://developers.themoviedb.org/3)
+            </summary>
+            <param name="pesquisa">Criterios de pesquisa.</param>
+            <param name="idioma">Idioma da pesquisa/resultado</param>
+            <returns>
+                Lista dos filmes encontrados conforme criterio de pesquisa.
+            </returns>
+            <exception cref="T:MaverickNovo.Domain.Exceptions.BuscarFilmesCoreException" />
+        </member>
+        <member name="M:MaverickNovo.Domain.Adapters.ITmdbAdapter.GetFilmesPorPessoaAsync(MaverickNovo.Domain.Models.PesquisaPorPessoa,System.String)">
+            <summary>
+            Realiza pesquisa em filmes por pessoa.
+            Este adaptador consiste em um exemplo para acesso ao
+            TMDb API (The Movie Database - https://developers.themoviedb.org/3)
+            </summary>
+            <param name="pesquisa">Criterios de pesquisa.</param>
+            <param name="idioma">Idioma da pesquisa/resultado</param>
+            <returns>
+                Lista das pessoas e seus filmes encontrados conforme criterio de pesquisa.
+            </returns>
+            <exception cref="T:MaverickNovo.Domain.Exceptions.BuscarFilmesCoreException" />
+        </member>
+        <member name="P:MaverickNovo.Domain.Models.Filme.Id">
+            <summary>
+            Identificador do filme no The Moview Database.
+            </summary>
+        </member>
+        <member name="P:MaverickNovo.Domain.Models.Filme.Nome">
+            <summary>
+            Nome do filme.
+            </summary>
+        </member>
+        <member name="P:MaverickNovo.Domain.Models.Filme.Serie">
+            <summary>
+            Nome da Serie
+            </summary>
+        </member>
+        <member name="P:MaverickNovo.Domain.Models.Filme.Descricao">
+            <summary>
+            Descricao/Resumo do filme.
+            </summary>
+        </member>
+        <member name="P:MaverickNovo.Domain.Models.Filme.DataLancamento">
+            <summary>
+            Data de lancamento do filme.
+            </summary>
+        </member>
+        <member name="P:MaverickNovo.Domain.Models.Pesquisa.TermoPesquisa">
+            <summary>
+            Termo a ser pesquisado.
+            </summary>
+        </member>
+        <member name="P:MaverickNovo.Domain.Models.Pesquisa.AnoLancamento">
+            <summary>
+            Ano de lançamento.
+            </summary>
+        </member>
+        <member name="P:MaverickNovo.Domain.Models.PesquisaPorPessoa.TermoPesquisa">
+            <summary>
+            Termo a ser pesquisado.
+            </summary>
+        </member>
+        <member name="P:MaverickNovo.Domain.Models.Pessoa.Nome">
+            <summary>
+            Nome da Pessoa.
+            </summary>
+        </member>
+        <member name="P:MaverickNovo.Domain.Models.Pessoa.Departamento">
+            <summary>
+            Departamento/Papel da Pessoa.
+            </summary>
+        </member>
+        <member name="P:MaverickNovo.Domain.Models.Pessoa.Filmes">
+            <summary>
+            Lista dos Filmes
+            </summary>
+        </member>
+        <member name="M:MaverickNovo.Domain.Services.IFilmesService.ObterFilmesAsync(MaverickNovo.Domain.Models.Pesquisa)">
+            <summary>
+            Realiza pesquisa em filmes.
+            </summary>
+            <param name="pesquisa">Criterios de pesquisa.</param>
+            <returns>
+                Lista dos filmes encontrados conforme criterio de pesquisa.
+            </returns>
+            <exception cref="T:MaverickNovo.Domain.Exceptions.BuscarFilmesCoreException" />
+            <exception cref="T:Otc.DomainBase.Exceptions.ModelValidationException" />
+        </member>
+        <member name="M:MaverickNovo.Domain.Services.IFilmesService.ObterFilmesPorPessoaAsync(MaverickNovo.Domain.Models.PesquisaPorPessoa)">
+            <summary>
+            Realiza pesquisa em filmes por pessoa.
+            </summary>
+            <param name="pesquisa">Criterios de pesquisa.</param>
+            <returns>
+                Lista das pessoas encontradas e seus filmes conforme criterio de pesquisa.
+            </returns>
+            <exception cref="T:MaverickNovo.Domain.Exceptions.BuscarFilmesCoreException" />
+            <exception cref="T:Otc.DomainBase.Exceptions.ModelValidationException" />
+        </member>
+    </members>
+</doc>
